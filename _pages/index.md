@@ -6,10 +6,9 @@ permalink: /
 
 ---
 
+Hi! I graduated recently from my MSc in Epidemiology, where I specialized in infectious diseases and global health 🌎.
 
-Hi visitor! My name is xx, and I'm a xxx interesting in learning more about the world in an systemic and networked manner.
+I am trained in SAS, with basic certification. My familarity to other statistical software comes from self-teaching (R, Python) and work (Stata).
 
-You can find here some random articles, mostly about data explorations, and texts about my biography, favorites list, projects and activities.
-
-[insert pictures]
+If you have feedback, comments, ideas, or would like to collaborate, please reach out breagh[dot]cheng[at]queensu[dot]ca
 
