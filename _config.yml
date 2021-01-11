@@ -1,17 +1,17 @@
 # Site settings
-title_left    : "dan"
-title_right   : "lessa" # default: ""
+title_left    : "beester"
+title_right   : "time" # default: ""
 description   : ""
-keywords      : "danilo lessa bernardineli"
-url           : https://danlessa.github.io # site url
+keywords      : ""
+url           : https://beestertime.github.io # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
-google_analytics  : UA-117550550-2
-twitter_username  : "danilolessa"
-comments_enabled  : true # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : "danlessa"
-postshare_enabled : true
+google_analytics  : 
+twitter_username  : "beestertime"
+comments_enabled  :  # if enabled (set to true), please provide your disqus_username
+disqus_shortname  : ""
+postshare_enabled : false
 
 # Build settings
 permalink   : :year/:title/
@@ -30,7 +30,7 @@ sass:
 
 # Author settings
 author:
-  name     : "Danilo Lessa Bernardineli"
+  name     : "beestertime"
 
 plugins:
   - jekyll-sitemap
